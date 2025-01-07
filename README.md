@@ -5,8 +5,6 @@ Hi there! 👋 I'm a passionate **Web and Game Developer** with a knack for craf
 ## Skills & Expertise 🛠️
 ### Web Development 🌐
 - **Frontend**: HTML5, CSS3, JavaScript.
-- **Backend**: Node.js, Express.js.
-- **Databases**: PostgreSQL.
 
 ### Game Development 🎮
 - **Engines**: Unreal Engine
